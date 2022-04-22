@@ -1,0 +1,65 @@
+.triangle {
+    border-style: solid;
+    border-color: transparent transparent #3197ee transparent;
+    border-width: 0 50px 100px 50px;
+    margin: 0 15px; 
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    
+  }
+  .shape-name-triangle {
+    color: black;
+    background-color: white;
+    font-size: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -40px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    width: 40%
+
+  }
+
+  .shape-name {
+    /* border-style: solid; */
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    margin-top: 30%;
+    color: black;
+    border-radius: 10px;
+  }
+  .circle {
+    height: 100px;
+    width: 100px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 15px; 
+  }
+
+  .hexagon {
+    color: red;
+    font-size: 135px;
+   margin-top: -46px;
+    z-index: -10;
+    height:0px;
+  }
+
+
+  .shape-name-hexagon{
+    color: black;
+    background-color: white;
+    position: absolute;
+    width: 60px;
+    font-size: 70%;
+    margin-right: auto;
+    margin-left: 24px;
+    margin-top: 90px;
+    border-radius: 10px;
+
+  }
